@@ -208,4 +208,4 @@ not permitted without a separate agreement; contact the authors for licensing.
 
 ## Contact
 
-Haosen Yu — <haosenyu@hotmail.com>
+Haosen Yu — <Haosen.Yu@soton.ac.uk>
