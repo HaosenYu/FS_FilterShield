@@ -1,0 +1,70 @@
+FilterShield — Academic, Non-Commercial Research License (v1.0)
+
+Copyright (c) 2026 Haosen Yu, Peiyao Sun, Tom J. Kazmierski, Basel Halak.
+All rights reserved.
+
+This software and the accompanying source code (the "Software") implement the
+method described in:
+
+    Haosen Yu, Peiyao Sun, Tom J. Kazmierski, Basel Halak,
+    "FilterShield: Attack-Agnostic Backdoor Defense for Vision Transformers via
+    Token-Space Projection," 2026.
+
+By downloading, copying, installing, using, or modifying the Software, you
+("the Licensee") agree to the terms below.
+
+1. GRANT OF LICENSE
+   Subject to full compliance with this License, the copyright holders grant
+   the Licensee a worldwide, royalty-free, non-exclusive, non-transferable,
+   revocable license to use, reproduce, and modify the Software solely for
+   internal, non-commercial academic research and educational evaluation.
+
+2. MANDATORY CITATION
+   Any publication, preprint, thesis, dissertation, technical report,
+   presentation, or other scholarly or public work that uses, builds upon,
+   evaluates, reproduces, or is derived in whole or in part from the Software
+   or the method it implements MUST cite the publication listed above (see
+   CITATION.cff / the "Citation" section of README.md). This obligation is a
+   material condition of the License.
+
+3. NON-COMMERCIAL RESTRICTION
+   Commercial use is NOT permitted under this License. "Commercial use"
+   includes, without limitation, use in or for a product or service offered
+   for sale or commercial advantage, use within a for-profit entity's
+   operations, paid consulting, or incorporation into commercial software.
+   For any commercial license, contact the copyright holders.
+
+4. REDISTRIBUTION
+   Redistribution of the Software or derivative works is permitted only for
+   non-commercial academic purposes, provided that (a) this License and the
+   above copyright notice are retained in full, (b) the mandatory citation
+   obligation in Section 2 is preserved, and (c) modifications are clearly
+   marked as such and not misrepresented as the original work.
+
+5. NO TRADEMARK OR ENDORSEMENT
+   This License does not grant permission to use the names of the authors or
+   their institutions to endorse or promote derived products without prior
+   written permission.
+
+6. RESERVATION OF RIGHTS
+   All rights not expressly granted herein are reserved by the copyright
+   holders, including all patent rights in any invention embodied in the
+   Software or the method it implements. No patent license is granted.
+
+7. NO WARRANTY
+   THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+   IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+   FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT. IN NO EVENT SHALL
+   THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER
+   LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING
+   FROM, OUT OF, OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER
+   DEALINGS IN THE SOFTWARE.
+
+8. TERMINATION
+   Any breach of this License (including failure to comply with the citation
+   obligation or the non-commercial restriction) automatically terminates the
+   rights granted herein. Upon termination, the Licensee must cease all use
+   and destroy all copies of the Software.
+
+For permissions beyond the scope of this License — including commercial use —
+please contact: Haosen Yu <haosenyu@hotmail.com>.

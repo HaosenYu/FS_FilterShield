@@ -1,0 +1,30 @@
+cff-version: 1.2.0
+title: "FilterShield: Attack-Agnostic Backdoor Defense for Vision Transformers via Token-Space Projection"
+message: "If you use this software or the FilterShield method, you must cite the paper below (required by the license)."
+type: software
+authors:
+  - family-names: Yu
+    given-names: Haosen
+    email: haosenyu@hotmail.com
+  - family-names: Sun
+    given-names: Peiyao
+  - family-names: Kazmierski
+    given-names: Tom J.
+  - family-names: Halak
+    given-names: Basel
+year: 2026
+license: LicenseRef-FilterShield-Academic-NonCommercial
+preferred-citation:
+  type: article
+  title: "FilterShield: Attack-Agnostic Backdoor Defense for Vision Transformers via Token-Space Projection"
+  authors:
+    - family-names: Yu
+      given-names: Haosen
+    - family-names: Sun
+      given-names: Peiyao
+    - family-names: Kazmierski
+      given-names: Tom J.
+    - family-names: Halak
+      given-names: Basel
+  year: 2026
+  notes: "Under review. Bibliographic details will be updated upon publication."

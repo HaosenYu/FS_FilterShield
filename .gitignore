@@ -1,0 +1,43 @@
+# Datasets, checkpoints and large artifacts are intentionally NOT distributed.
+# These rules prevent accidentally committing them if you run the code here.
+
+# Model checkpoints / weights
+*.pth
+*.pt
+*.ckpt
+*.safetensors
+
+# Datasets and downloaded archives
+data/
+datasets/
+*.tar.gz
+*.zip
+
+# Container images
+*.sif
+*.img
+
+# Outputs: visualizations, logs, results
+viz*/
+runs/
+outputs/
+results/
+*.log
+*.csv
+*.png
+*.jpg
+*.npy
+*.npz
+
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+env/
+
+# OS / editor
+.DS_Store
+.idea/
+.vscode/

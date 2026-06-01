@@ -1,0 +1,7 @@
+# Core dependencies for FilterShield (FS)
+# Install a CUDA-enabled build of torch/torchvision matching your platform:
+#   https://pytorch.org/get-started/locally/
+torch>=1.13
+torchvision>=0.14
+timm>=0.6.12
+tqdm>=4.62
